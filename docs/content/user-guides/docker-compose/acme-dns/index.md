@@ -127,7 +127,7 @@ The point is to manage those secret files by another mean, and read them from th
 ├── ovh_consumer_key.secret
 └── ovh_endpoint.secret
 ```
-
+client will r
 !!! Note
 
     You could store those secrets anywhere on the server,
